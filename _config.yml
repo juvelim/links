@@ -68,11 +68,11 @@ links:
 
 
    # CUSTOM LINK
-  # - Name: Blog
-  #   URL: https://harsh98trivedi.github.io/blog
-  #   Icon-Class: fas fa-link
-  #   Color: '#ffb142'
-  #   Text_Color: '#ffffff'
+  - Name: Es tu primera vez?
+    URL: https://jmarcos-cano.github.io/links/invitados
+    Icon-Class: fas fa-link
+    Color: '#4285f4'
+    Text_Color: '#ffffff'
 
   #   # WHATSAPP
   # - Name: WhatsApp
