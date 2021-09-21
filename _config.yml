@@ -7,7 +7,9 @@ tagline: Juventud de Iglesia de Cristo Elim Central
 
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://images.unsplash.com/photo-1632171962729-ae5999222681?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1604&q=80
+Image_URL: ./assets/images/juve.jpg
+
+#https://images.unsplash.com/photo-1632171962729-ae5999222681?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1604&q=80
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://source.unsplash.com/featured/?worship
@@ -41,6 +43,14 @@ links:
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
+
+    # SPOTIFY
+  - Name: Spotify
+    URL: https://open.spotify.com/artist
+    Username: 5VHQgdumqij6OuSNFDPOn8
+    Color: '#1ed760'
+    Icon-Class: fab fa-spotify
+
     # EMAIL
   - Name: Envíanos un correo
     URL: 'mailto:juvelimguatemala@elimcentral.org'
@@ -66,12 +76,6 @@ links:
 
 
 
-    # SPOTIFY
-  - Name: Spotify
-    URL: https://open.spotify.com/artist
-    Username: 5VHQgdumqij6OuSNFDPOn8
-    Color: '#1ed760'
-    Icon-Class: fab fa-spotify
 
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
