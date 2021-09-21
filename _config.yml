@@ -74,6 +74,13 @@ links:
     Color: '#4285f4'
     Text_Color: '#ffffff'
 
+   # CUSTOM LINK
+  - Name: Tienes alguna peticion?
+    URL: https://jmarcos-cano.github.io/links/peticiones
+    Icon-Class: fas fa-link
+    Color: '#ffa633'
+    Text_Color: '#ffffff'
+
   #   # WHATSAPP
   # - Name: WhatsApp
   #   URL: https://wa.me
