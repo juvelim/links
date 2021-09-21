@@ -29,7 +29,7 @@ links:
     Icon-Class: fab fa-facebook
 
     # INSTAGRAM
-  - Name: Instagram
+  - Name: Instagram 🖼️
     URL: https://www.instagram.com
     Username: juvelim_guate
     Color: '#c32aa3'
@@ -37,7 +37,7 @@ links:
 
 
     # YOUTUBE
-  - Name: YouTube
+  - Name: YouTube 📹
     URL: https://www.youtube.com/c
     Username: Radio760AMElimCentral
     Color: '#ff0000'
@@ -45,14 +45,14 @@ links:
 
 
     # SPOTIFY
-  - Name: Spotify
+  - Name: Spotify 🎧
     URL: https://open.spotify.com/artist
     Username: 5VHQgdumqij6OuSNFDPOn8
     Color: '#1ed760'
     Icon-Class: fab fa-spotify
 
     # EMAIL
-  - Name: Envíanos un correo
+  - Name: Envíanos un correo 📧
     URL: 'mailto:juvelimguatemala@elimcentral.org'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
@@ -60,12 +60,19 @@ links:
 
 
     # MESSENGER
-  - Name: Comunicate vía Messenger
+  - Name: 📢 Comunicate vía Messenger
     URL: https://m.me
     Username: JUVELIMGuatemala
     Color: '#3b5998'
     Icon-Class: fab fa-facebook-messenger
 
+
+   # CUSTOM LINK
+  # - Name: Blog
+  #   URL: https://harsh98trivedi.github.io/blog
+  #   Icon-Class: fas fa-link
+  #   Color: '#ffb142'
+  #   Text_Color: '#ffffff'
 
   #   # WHATSAPP
   # - Name: WhatsApp
