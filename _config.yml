@@ -1,5 +1,5 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: juvelim
+name: Juvelim
 
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: Juventud de Iglesia de Cristo Elim Central
@@ -7,7 +7,7 @@ tagline: Juventud de Iglesia de Cristo Elim Central
 
 
 # YOUR/BRAND IMAGE URL
-Image_URL: ./assets/images/juve.jpg
+Image_URL: https://raw.githubusercontent.com/jmarcos-cano/links/master/assets/images/juve.jpg
 
 #https://images.unsplash.com/photo-1632171962729-ae5999222681?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1604&q=80
 
@@ -73,9 +73,6 @@ links:
   #   Username: '+1123456789'
   #   Color: '#25d366'
   #   Icon-Class: fab fa-whatsapp
-
-
-
 
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
